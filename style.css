@@ -40,5 +40,16 @@ body{
     background-image: url('khalid (2).jpeg');
 }
 
+button{
+    pointer-events: fill;
+    border: 0;
+    background-color: rgba(6, 231, 126, 0.872);
+    color: aliceblue;
+    padding: 10px 35px;
+    border-radius: 10px;
+    font-size: large;
+    margin-top: 20px;
+}
+
 
 
