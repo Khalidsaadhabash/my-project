@@ -17,7 +17,7 @@ body{
 }
 .container{
     height: 50vh;
-    background-color: #84668f;
+    background-color: #7b40a376;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -37,7 +37,7 @@ body{
 
 
 #staticIMG{
-    background-image: url('');
+    background-image: url('khalid__2_-removebg-preview.png');
 }
 
 button{
