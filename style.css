@@ -25,5 +25,14 @@ body{
     margin-bottom: 20px;
 }
 
+#dynamicIMG,
+#staticIMG{
+    height: 100%;
+    width: 180px;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 
 
