@@ -64,4 +64,11 @@ button:hover{
     color: #fa0b0bad;
 }
 
+@media only screen and (max-width: 768px) {
+
+    #dynamicIMG,
+    #staticIMG {
+        width: 250px;
+    }
+}
 /* done */
