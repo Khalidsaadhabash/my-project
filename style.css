@@ -56,4 +56,11 @@ button:hover{
     cursor: pointer;
 }
 
+.correct{
+    color: #730bfae4;
+}
+
+.No{
+    color: #fa0b0bad;
+}
 
